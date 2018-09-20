@@ -6,6 +6,7 @@ public class b {
 		 if(d3(i)){
 			System.out.print("fizz");
 			if(d5(i)){
+			
 				System.out.print("buzz");				
 			}
 		  }
